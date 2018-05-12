@@ -1,0 +1,39 @@
+_repo: Seventh-Annual-ReportOffice-Washington-1891_26568
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26568-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Powell, John Wesley
+    aliases:
+    - Powell, J. W. (John Wesley)
+    - Powell, Wes
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '7040'
+    url: http://www.gutenberg.org/2009/agents/7040
+    wikipedia: http://en.wikipedia.org/wiki/John_Wesley_Powell
+description: ''
+gutenberg_issued: '2008-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26568'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Languages'
+- !lcc 'PM'
+- !lcsh 'Indians of North America -- Medicine'
+- !lcsh 'Ojibwa Indians -- Medicine'
+- !lcsh 'Cherokee Indians -- Rites and ceremonies'
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Rites and ceremonies'
+tableOfContents: Indian linguistic families of America north of Mexico / J.W. Powell
+  -- The Mide'wiwin or "Grand Medicine Society" of the Ojibwa / W.J. Hoffman -- The
+  sacred formulas of the Cherokees / James Mooney.
+title: "Seventh Annual Report of the Bureau of Ethnology\r\nto the Secretary of the\
+  \ Smithsonian Institution, 1885-1886, Government Printing Office, Washington, 1891"
+url: http://www.gutenberg.org/ebooks/26568
